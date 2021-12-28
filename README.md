@@ -1,6 +1,6 @@
 # Tableau: COVID-19 Pandemic
 
-This repository contains the statistical analysis of the COIVD-19 pandemic. The screenshots of the visualizations have been attached below.
+This repository contains a statistical analysis of the COIVD-19 pandemic. The screenshots of the visualizations have been attached below.
 
 ### Analysis and Visualization
 
